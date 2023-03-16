@@ -14,7 +14,7 @@
   "author": "GGORG <GGORG0@protonmail.com>",
   "license": "GPL-3.0",
   "dependencies": {
-    "@fontsource/rubik": "4.5.10",
+    "@fontsource/rubik": "4.5.14",
     "@ryansonshine/commitizen": "4.2.8",
     "@ryansonshine/cz-conventional-changelog": "3.3.4",
     "axios": "^0.27.2",
